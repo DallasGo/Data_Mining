@@ -1,3 +1,8 @@
 1. The dataset is produced from IBM Data Generator: avg_items_per_transaction
 2. In the code, “input data” path and “output data” path need to be changed to the user’s own path
 3. In the GitHub, the output result is provided (data.out)
+4. DataSet:
+	IBM data: test.data, test.pat, HW1_IBMData.py, data.out
+	Kaggle data: BreadBasket_DMS.csv, HW1_kaggle.py, output_kaggle.txt
+	
+    
