@@ -1,0 +1,176 @@
+{'Fairy Doors'}
+{'Bowl Nic Pitt'}
+{'Bowl Nic Pitt', 'Coffee'}
+{'Chimichurri Oil'}
+{'Spread'}
+{'Hack the stack'}
+{'Hack the stack', 'Art Tray'}
+{'Pintxos'}
+{'Mortimer'}
+{'Bread Pudding'}
+{'Bread Pudding', 'Coffee'}
+{'Caramel bites'}
+{'Brioche and salami'}
+{'Bread', 'Brioche and salami'}
+{'Raspberry shortbread sandwich'}
+{'Cherry me Dried fruit'}
+{'Panatone'}
+{"Valentine's card"}
+{"Valentine's card", 'Tshirt'}
+{'Bare Popcorn'}
+{'Postcard'}
+{'Argentina Night'}
+{'Afternoon with the baker', 'Argentina Night'}
+{'Tea', 'Argentina Night'}
+{'Afternoon with the baker', 'Tea', 'Argentina Night'}
+{'Half slice Monster '}
+{'Basket'}
+{'Basket', 'Coffee'}
+{'Honey'}
+{'Lemon and coconut'}
+{'Lemon and coconut', 'Coffee'}
+{'Crepes'}
+{'Muesli'}
+{'Muesli', 'Tea'}
+{'Coffee granules '}
+{'Christmas common'}
+{'Victorian Sponge'}
+{'Mighty Protein'}
+{'Empanadas'}
+{'Empanadas', 'Coffee'}
+{'Gingerbread syrup'}
+{'Vegan Feast'}
+{'Vegan Feast', 'Cookies'}
+{'Kids biscuit'}
+{'Nomad bag'}
+{'Nomad bag', 'Coffee'}
+{'Drinking chocolate spoons '}
+{'Tshirt'}
+{'Chocolates'}
+{'Dulce de Leche'}
+{'Duck egg'}
+{'Duck egg', 'NONE'}
+{'Duck egg', 'Coffee'}
+{'Duck egg', 'NONE', 'Coffee'}
+{'Tacos/Fajita'}
+{'Tacos/Fajita', 'Coffee'}
+{'Pick and Mix Bowls'}
+{'Tartine', 'Pick and Mix Bowls'}
+{'Pick and Mix Bowls', 'Coffee'}
+{'Tartine', 'Pick and Mix Bowls', 'Coffee'}
+{'Crisps'}
+{'Sandwich', 'Crisps'}
+{'Afternoon with the baker'}
+{'Afternoon with the baker', 'Tea'}
+{"Ella's Kitchen Pouches"}
+{'Juice', "Ella's Kitchen Pouches"}
+{'My-5 Fruit Shoot'}
+{'Eggs'}
+{'Bread', 'Eggs'}
+{'Granola'}
+{'Keeping It Local'}
+{'Coffee', 'Keeping It Local'}
+{'Focaccia'}
+{'Focaccia', 'Coffee'}
+{'Tartine'}
+{'Vegan mincepie'}
+{'Bread', 'Vegan mincepie'}
+{'Extra Salami or Feta'}
+{'Extra Salami or Feta', 'Coffee'}
+{'Bakewell'}
+{'Art Tray'}
+{'Juice', 'Art Tray'}
+{'The Nomad'}
+{'NONE', 'The Nomad'}
+{'The Nomad', 'Coffee'}
+{'Baguette'}
+{'Baguette', 'Scandinavian'}
+{'Frittata'}
+{'Bread', 'Frittata'}
+{'Smoothies'}
+{'Smoothies', 'Coffee'}
+{'Hearty & Seasonal'}
+{'Hearty & Seasonal', 'Bread'}
+{'Fudge'}
+{'Salad'}
+{'Salad', 'Coffee'}
+{'Jam'}
+{'Bread', 'Jam'}
+{'Jammie Dodgers'}
+{'Juice', 'Jammie Dodgers'}
+{'Jammie Dodgers', 'Coffee'}
+{'Juice', 'Jammie Dodgers', 'Coffee'}
+{'Chicken Stew'}
+{'Chicken Stew', 'Sandwich'}
+{'Tiffin'}
+{'Scandinavian'}
+{'Scandinavian', 'Coffee'}
+{'Farm House'}
+{'Mineral water'}
+{'Coke'}
+{'Coke', 'Truffles'}
+{'Spanish Brunch'}
+{'Spanish Brunch', 'Tea'}
+{'Toast'}
+{'Toast', 'Coffee'}
+{'Truffles'}
+{'Scone'}
+{'Bread', 'Scone'}
+{'Scone', 'Coffee'}
+{'Bread', 'Scone', 'Coffee'}
+{'Muffin'}
+{'Soup', 'Muffin'}
+{'Soup'}
+{'Soup', 'Coffee'}
+{'Brownie'}
+{'Brownie', 'Cake'}
+{'Alfajores'}
+{'Medialuna'}
+{'Medialuna', 'Cookies'}
+{'Medialuna', 'Coffee'}
+{'Medialuna', 'Cookies', 'Coffee'}
+{'Cookies'}
+{'Cookies', 'Coffee'}
+{'Pastry'}
+{'Pastry', 'Juice'}
+{'Pastry', 'Coffee'}
+{'Pastry', 'Juice', 'Coffee'}
+{'Hot chocolate'}
+{'Hot chocolate', 'Sandwich'}
+{'Hot chocolate', 'Bread'}
+{'Hot chocolate', 'Coffee'}
+{'Juice'}
+{'Juice', 'Sandwich'}
+{'Bread', 'Juice', 'Sandwich'}
+{'Juice', 'Sandwich', 'Coffee'}
+{'Bread', 'Juice', 'Sandwich', 'Coffee'}
+{'Bread', 'Juice'}
+{'Juice', 'Coffee'}
+{'Bread', 'Juice', 'Coffee'}
+{'Sandwich'}
+{'Sandwich', 'Cake'}
+{'Sandwich', 'Tea'}
+{'Sandwich', 'Tea', 'Cake'}
+{'NONE'}
+{'Tea', 'NONE'}
+{'Bread', 'Tea', 'NONE'}
+{'Cake', 'Tea', 'NONE'}
+{'Bread', 'Cake', 'Tea', 'NONE'}
+{'Bread', 'NONE'}
+{'Cake', 'NONE'}
+{'Bread', 'Cake', 'NONE'}
+{'Cake'}
+{'Cake', 'Coffee'}
+{'Bread', 'Cake', 'Coffee'}
+{'Cake', 'Tea', 'Coffee'}
+{'Bread', 'Cake', 'Tea', 'Coffee'}
+{'Bread', 'Cake'}
+{'Cake', 'Tea'}
+{'Bread', 'Cake', 'Tea'}
+{'Tea'}
+{'Bread', 'Tea'}
+{'Tea', 'Coffee'}
+{'Bread', 'Tea', 'Coffee'}
+{'Bread'}
+{'Bread', 'Coffee'}
+{'Coffee'}
